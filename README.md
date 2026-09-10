@@ -2,6 +2,11 @@
 
 A simple and interactive command-line tool to quickly find and delete local Git repositories or delete repositories from your GitHub account.
 
+## Demo
+
+![Repository Selection Demo](assets/selection-menu.png)
+
+![Deletion Success](assets/deletion-success.png)
 ## Prerequisites
 
 Ensure you have the following dependencies installed:
